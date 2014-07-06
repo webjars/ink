@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ink</artifactId>
-    <version>3.0.4-SNAPSHOT</version>
+    <version>3.0.4</version>
     <name>Ink</name>
     <description>WebJar for Ink</description>
     <url>http://webjars.org</url>
@@ -21,7 +21,7 @@
         <upstream.version>3.0.4</upstream.version>
         <upstream.url>https://github.com/sapo/Ink/releases/download/${upstream.version}</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
-        <requirejs/>
+        <requirejs />
     </properties>
 
     <developers>
@@ -44,7 +44,7 @@
         <url>http://github.com/webjars/ink</url>
         <connection>scm:git:https://github.com/webjars/ink.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ink.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>ink-3.0.4</tag>
     </scm>
     
     <build>
