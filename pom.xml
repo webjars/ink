@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ink</artifactId>
-    <version>3.0.4</version>
+    <version>3.0.5-SNAPSHOT</version>
     <name>Ink</name>
     <description>WebJar for Ink</description>
     <url>http://webjars.org</url>
@@ -44,7 +44,7 @@
         <url>http://github.com/webjars/ink</url>
         <connection>scm:git:https://github.com/webjars/ink.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ink.git</developerConnection>
-        <tag>ink-3.0.4</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
