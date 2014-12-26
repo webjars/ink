@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ink</artifactId>
-    <version>3.0.5-SNAPSHOT</version>
+    <version>3.1.2-SNAPSHOT</version>
     <name>Ink</name>
     <description>WebJar for Ink</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>3.0.4</upstream.version>
+        <upstream.version>3.1.2</upstream.version>
         <upstream.url>https://github.com/sapo/Ink/releases/download/${upstream.version}</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
         <requirejs />
