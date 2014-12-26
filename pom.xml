@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ink</artifactId>
-    <version>3.1.3-SNAPSHOT</version>
+    <version>3.1.2-SNAPSHOT</version>
     <name>Ink</name>
     <description>WebJar for Ink</description>
     <url>http://webjars.org</url>
